@@ -1,6 +1,6 @@
 # holis_mri_images
 
-This repository contains MRI scans from the HOLiS project, with data for subjects NPBB299 and NPBB328. Each scan is linked for easy download and review.
+This repository contains MRI scans from the HOLiS project, with data for subjects NPBB299 and NPBB328. Each scan is linked for easy review.
 
 ---
 
